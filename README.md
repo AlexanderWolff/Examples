@@ -3,6 +3,7 @@ The aim of this repository is to showcase code I've written.
 
 ###C-Sharp
 (Code snippet) 
+
 https://github.com/AlexanderWolff/test-repo/blob/master/sortFiles.cs
 
 ###C++
@@ -16,8 +17,10 @@ https://github.com/AlexanderWolff/specdata/blob/master/extractComplete.R
 
 ###MATLAB
 (2Dimensional Search Algorithm)
+
 https://github.com/AlexanderWolff/MATLAB-algorithms/blob/master/obj_search.m
 
 ###Python
 (Backend for a plotting GUI) -- work in progress
+
 https://github.com/AlexanderWolff/Plotly_Plotter/blob/master/test.py
